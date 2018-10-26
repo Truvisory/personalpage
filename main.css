@@ -1,29 +1,21 @@
 h1 {
-    text-align: center;
     color: darkslateblue
 }
 
+.about {
+    background-color: wheat;
+}
+
 h2 {
-    text-align: center;
     color: teal
 }
 
-h3 {
-    text-align: center;
+h6 {
     color: brown;
 }
 
 .unord-list {
     background-color: crimson;
-}
-
-.order-list {
-    background-color: aquamarine;
-}
-
-.img-size {
-    max-width: 400px;
-    max-height: 400px;
 }
 
 .background-color {
