@@ -23,14 +23,14 @@
     padding-right: 10px;
 }
 
-.h1 { 
+h1 { 
     color: black;
     font-size: 2em;
     font-family: serif;
     margin: 0%;
 }
 
-.h2 {
+h2 {
     color: black;   
     font-size: 1.5em;
     margin-top: 0.83em;
@@ -38,7 +38,7 @@
     font-weight: bold;
 }
 
-.h3 {
+h3 {
     color: black;
     font-size: 1.17em;
     margin-top: 1em;
