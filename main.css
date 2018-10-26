@@ -12,7 +12,11 @@
     text-align: center;
     font-weight: bold;
     padding-left: 6px;
+}
 
+.btn {
+    background-color: cadetblue;
+    color: springgreen;
 }
 
 .header-one { 
@@ -39,6 +43,10 @@
     font-weight: bold;
 }
 
+.img-header {
+    text-align: center;
+}
+
 .text {
     color: black;
     padding-bottom: 10px;
@@ -49,9 +57,10 @@
     margin-top: 25px;
     margin-bottom: 0px;
     margin-left: 25px;
-    margin-right: 0px;
+    margin-right: 25px;
     padding-bottom: 100%;
     box-shadow: 0 0 20px 2px wheat;
+    border-radius: 10px;
 }
 
 li {
@@ -62,4 +71,9 @@ li {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
+    justify-content: center;
+}
+
+.img {
+    padding: 2px;
 }
