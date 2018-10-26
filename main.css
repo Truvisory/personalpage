@@ -1,6 +1,6 @@
 
 .background-main {
-    background-color: black;
+    background-color: darkblue;
 }
 
 .navbar {
@@ -15,8 +15,11 @@
 }
 
 .btn {
-    background-color: cadetblue;
+    background-color: darkblue;
+    border-color: darkblue;
     color: springgreen;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 
 .header-one { 
@@ -43,23 +46,20 @@
     font-weight: bold;
 }
 
-.img-header {
-    text-align: center;
-}
-
 .text {
     color: black;
+    text-indent: 15px;
     padding-bottom: 10px;
 }
 
 .background-color {
-    background-color: wheat;
+    background-color: whitesmoke;
     margin-top: 25px;
     margin-bottom: 0px;
     margin-left: 25px;
     margin-right: 25px;
     padding-bottom: 100%;
-    box-shadow: 0 0 20px 2px wheat;
+    box-shadow: 0 0 20px 2px whitesmoke;
     border-radius: 10px;
 }
 
