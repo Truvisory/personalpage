@@ -57,3 +57,7 @@
 li {
     color: black;
 }
+
+.img-container {
+    transform: rotate(90deg);
+}
